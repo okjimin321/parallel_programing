@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "vector": "cpp",
+        "atomic": "cpp",
+        "thread": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "random": "cpp",
+        "future": "cpp"
+    }
+}
